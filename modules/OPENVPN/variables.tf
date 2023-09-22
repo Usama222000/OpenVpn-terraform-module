@@ -1,0 +1,2 @@
+variable openvpn {}
+variable "sg" {}
